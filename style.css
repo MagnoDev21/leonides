@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+
+}
+
+body {
+    background-image: linear-gradient(to right, rgba(67, 50, 79, 0.255), rgb(179, 104, 147));
+}
+
+h1 {
+    text-align: center;
+    margin-top: 8%;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.links {
+    text-align: center;
+    margin-top: 15%;
+    display: block;
+
+}
+
+.leo {
+    background-color: rgb(179, 104, 147);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.leo:hover {
+    background-color: #fff;
+    color: rgb(179, 104, 147);
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.karla {
+    background-color: rgb(179, 104, 147);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.karla:hover {
+    background-color: #fff;
+    color: rgb(179, 104, 147);
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.lary {
+    background-color: rgb(179, 104, 147);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.lary:hover {
+    background-color: #fff;
+    color: rgb(179, 104, 147);
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.cab {
+    background-color: rgb(179, 104, 147);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.cab:hover {
+    background-color: #fff;
+    color: rgb(179, 104, 147);
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.end {
+    background-color: rgb(179, 104, 147);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.end:hover {
+    background-color: #fff;
+    color: rgb(179, 104, 147);
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
