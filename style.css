@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, rgba(67, 50, 79, 0.255), rgb(179, 104, 147));
+    background-image: linear-gradient(to right, #E2D0D6,#D1AE6C);
 }
 
 h1 {
@@ -22,7 +22,7 @@ h1 {
 }
 
 .leo {
-    background-color: rgb(179, 104, 147);
+    background-color: #9B5B7D;
     color: #fff;
     padding: 10px 20px;
     border-radius: 20px;
@@ -33,7 +33,7 @@ h1 {
 
 .leo:hover {
     background-color: #fff;
-    color: rgb(179, 104, 147);
+    color: #9B5B7D;
     padding: 10px 20px;
     border-radius: 20px;
     text-decoration: none;
@@ -42,7 +42,7 @@ h1 {
 }
 
 .karla {
-    background-color: rgb(179, 104, 147);
+    background-color: #9B5B7D;
     color: #fff;
     padding: 10px 20px;
     border-radius: 20px;
@@ -53,7 +53,7 @@ h1 {
 
 .karla:hover {
     background-color: #fff;
-    color: rgb(179, 104, 147);
+    color: #9B5B7D;
     padding: 10px 20px;
     border-radius: 20px;
     text-decoration: none;
@@ -62,7 +62,7 @@ h1 {
 }
 
 .lary {
-    background-color: rgb(179, 104, 147);
+    background-color: #9B5B7D;
     color: #fff;
     padding: 10px 20px;
     border-radius: 20px;
@@ -72,8 +72,8 @@ h1 {
 }
 
 .lary:hover {
-    background-color: #fff;
-    color: rgb(179, 104, 147);
+   background-color: #fff;
+    color: #9B5B7D;
     padding: 10px 20px;
     border-radius: 20px;
     text-decoration: none;
@@ -82,7 +82,7 @@ h1 {
 }
 
 .cab {
-    background-color: rgb(179, 104, 147);
+    background-color: #9B5B7D;
     color: #fff;
     padding: 10px 20px;
     border-radius: 20px;
@@ -93,7 +93,7 @@ h1 {
 
 .cab:hover {
     background-color: #fff;
-    color: rgb(179, 104, 147);
+    color: #9B5B7D;
     padding: 10px 20px;
     border-radius: 20px;
     text-decoration: none;
@@ -102,7 +102,7 @@ h1 {
 }
 
 .end {
-    background-color: rgb(179, 104, 147);
+    background-color: #9B5B7D;
     color: #fff;
     padding: 10px 20px;
     border-radius: 20px;
@@ -113,7 +113,7 @@ h1 {
 
 .end:hover {
     background-color: #fff;
-    color: rgb(179, 104, 147);
+    color: #9B5B7D;
     padding: 10px 20px;
     border-radius: 20px;
     text-decoration: none;
